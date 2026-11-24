@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- CGVirtualDisplay talks to WindowServer through private CoreGraphics SPI.
+	     The App Sandbox does not permit this, so the host is distributed outside the
+	     Mac App Store (Developer ID + notarization) with the sandbox disabled. -->
+	<key>com.apple.security.app-sandbox</key>
+	<false/>
+</dict>
+</plist>

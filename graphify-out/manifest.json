@@ -1,0 +1,290 @@
+{
+  "macos/Package.swift": {
+    "mtime": 1794902703.0472925,
+    "seen": 1794921509.194871,
+    "ast_hash": "07459cab9b9a5984b498444602be3e6a",
+    "semantic_hash": ""
+  },
+  "macos/Sources/CGVirtualDisplayBridge/CGVirtualDisplayPrivate.h": {
+    "mtime": 1794898690.079535,
+    "seen": 1794899056.239579,
+    "ast_hash": "067a554d2c8a8ae53b6f6f6150c8dd97",
+    "semantic_hash": ""
+  },
+  "macos/Sources/CGVirtualDisplayBridge/DSVirtualDisplay.m": {
+    "mtime": 1794898690.1081352,
+    "seen": 1794899056.23958,
+    "ast_hash": "bbe585e16c523462c543100ac666f409",
+    "semantic_hash": ""
+  },
+  "macos/Sources/CGVirtualDisplayBridge/include/DSVirtualDisplay.h": {
+    "mtime": 1794898690.0942335,
+    "seen": 1794899056.2395809,
+    "ast_hash": "a8bbe4b6715f035cfb5689deab6fbe94",
+    "semantic_hash": ""
+  },
+  "macos/Sources/DroidScreenHost/ContentView.swift": {
+    "mtime": 1795523238.536723,
+    "seen": 1795523453.36586,
+    "ast_hash": "f2f6489b77dde26c9beb00d0125d41cf",
+    "semantic_hash": ""
+  },
+  "macos/Sources/DroidScreenHost/DroidScreenHostApp.swift": {
+    "mtime": 1794900130.3750808,
+    "seen": 1794921509.194876,
+    "ast_hash": "9b7177f47f2bfc50f6cb58f568ef5f5b",
+    "semantic_hash": ""
+  },
+  "macos/Sources/DroidScreenHost/HostViewModel.swift": {
+    "mtime": 1795525875.55826,
+    "seen": 1795525916.201639,
+    "ast_hash": "a9f176c3013f91268bc5d4841d85d91a",
+    "semantic_hash": ""
+  },
+  "macos/Sources/VirtualDisplayKit/DisplayConfigurator.swift": {
+    "mtime": 1794898780.9823415,
+    "seen": 1794899056.239584,
+    "ast_hash": "fc1b608288d2b4b703510f95536bc34c",
+    "semantic_hash": ""
+  },
+  "macos/Sources/VirtualDisplayKit/DisplayInspector.swift": {
+    "mtime": 1795525875.5578125,
+    "seen": 1795525916.2016509,
+    "ast_hash": "a99157a2e7b784c0bbc69ea5a2401fed",
+    "semantic_hash": ""
+  },
+  "macos/Sources/VirtualDisplayKit/ScreenSupport.swift": {
+    "mtime": 1794898781.0523455,
+    "seen": 1794899056.239585,
+    "ast_hash": "928094e1db7c936645754e53fc5ad6c1",
+    "semantic_hash": ""
+  },
+  "macos/Sources/VirtualDisplayKit/VirtualDisplayConfiguration.swift": {
+    "mtime": 1794898780.8787727,
+    "seen": 1794899056.239586,
+    "ast_hash": "9f132c75b3f389d61bf5765ac96863e1",
+    "semantic_hash": ""
+  },
+  "macos/Sources/VirtualDisplayKit/VirtualDisplayError.swift": {
+    "mtime": 1794898780.9076903,
+    "seen": 1794899056.239587,
+    "ast_hash": "3fa295674f5790add43a6760bfff8d46",
+    "semantic_hash": ""
+  },
+  "macos/Sources/VirtualDisplayKit/VirtualDisplayManager.swift": {
+    "mtime": 1794903873.8223648,
+    "seen": 1794921509.194891,
+    "ast_hash": "27bc5859d00e8709e9077647eff30406",
+    "semantic_hash": ""
+  },
+  "macos/Sources/VirtualDisplayKit/VirtualDisplaySelfTest.swift": {
+    "mtime": 1794898781.1094062,
+    "seen": 1794899056.239588,
+    "ast_hash": "2d279690b43b9bc5a2b499ffb5ce742f",
+    "semantic_hash": ""
+  },
+  "macos/Sources/droidscreen-vd/main.swift": {
+    "mtime": 1795524035.9439056,
+    "seen": 1795524128.827904,
+    "ast_hash": "de94985b5121d36a4d11b4e58150bb13",
+    "semantic_hash": ""
+  },
+  "macos/Tests/VirtualDisplayKitTests/VirtualDisplayKitTests.swift": {
+    "mtime": 1795525880.388896,
+    "seen": 1795525916.201659,
+    "ast_hash": "b3def6e90b82f0f6766144b4659ebfd2",
+    "semantic_hash": ""
+  },
+  "macos/scripts/build-app.sh": {
+    "mtime": 1794903608.1321287,
+    "seen": 1794921509.194896,
+    "ast_hash": "6c61e3e5c1cc36ebcf17d990c161aa7d",
+    "semantic_hash": ""
+  },
+  "CHANGELOG.md": {
+    "mtime": 1795525915.1320052,
+    "seen": 1795525916.2016609,
+    "ast_hash": "bd2a5d566cb7168088b09f664a1403e9",
+    "semantic_hash": ""
+  },
+  "DOCUMENTATION.md": {
+    "mtime": 1795525915.131686,
+    "seen": 1795525916.201662,
+    "ast_hash": "f11580bbd2d0786892b09d0110d06125",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1795523444.0035002,
+    "seen": 1795523453.365887,
+    "ast_hash": "b2b61719da5ae8303a04748217a235ec",
+    "semantic_hash": ""
+  },
+  "android/app/build.gradle.kts": {
+    "mtime": 1794921096.0289338,
+    "seen": 1794921509.194858,
+    "ast_hash": "dc7725e272d0589ada4ade580025a5b2",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/droidscreen/receiver/MainActivity.kt": {
+    "mtime": 1795523328.2290385,
+    "seen": 1795523453.3658419,
+    "ast_hash": "8f494e721b7d5da8f8518736598ae8b9",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/droidscreen/receiver/decoder/NalParser.kt": {
+    "mtime": 1794900280.0817711,
+    "seen": 1794921509.1948621,
+    "ast_hash": "c1afc62b669ff05ceff32a7ecafd19fb",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/droidscreen/receiver/decoder/VideoDecoder.kt": {
+    "mtime": 1794904209.0231256,
+    "seen": 1794921509.194863,
+    "ast_hash": "e6af6e8f562bf336b066e8edf01563f5",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/droidscreen/receiver/input/TouchInputHandler.kt": {
+    "mtime": 1794902828.9230564,
+    "seen": 1794921509.194864,
+    "ast_hash": "78d0c5d371124197e8c2e595becbc266",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/droidscreen/receiver/protocol/Wire.kt": {
+    "mtime": 1795524077.9050958,
+    "seen": 1795524128.8278751,
+    "ast_hash": "f978ceec839411cb8c7c9120c5b0e2fa",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/droidscreen/receiver/session/StreamController.kt": {
+    "mtime": 1795524077.9057748,
+    "seen": 1795524128.827876,
+    "ast_hash": "76746858145a9665f5f85596bbb502a6",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/droidscreen/receiver/session/StreamViewModel.kt": {
+    "mtime": 1795524092.1902614,
+    "seen": 1795524128.827877,
+    "ast_hash": "3bdb9abdee19649c6ca9780e9ef63a63",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/droidscreen/receiver/ui/Screens.kt": {
+    "mtime": 1795523328.229344,
+    "seen": 1795523453.365851,
+    "ast_hash": "2c28b828acca2013255a1f3622b75c63",
+    "semantic_hash": ""
+  },
+  "android/app/src/test/java/com/droidscreen/receiver/ProtocolTest.kt": {
+    "mtime": 1795524077.906571,
+    "seen": 1795524128.827879,
+    "ast_hash": "4a822e588f487a7785d312b689ba0f55",
+    "semantic_hash": ""
+  },
+  "android/build.gradle.kts": {
+    "mtime": 1794900280.0366457,
+    "seen": 1794921509.1948678,
+    "ast_hash": "20ee472ee82e700f3f67a941d43043db",
+    "semantic_hash": ""
+  },
+  "android/gradlew": {
+    "mtime": 1794900374.4578798,
+    "seen": 1794921509.194869,
+    "ast_hash": "65578da0358a01f31a6a78dfcf47e2bf",
+    "semantic_hash": ""
+  },
+  "android/settings.gradle.kts": {
+    "mtime": 1794900280.0347488,
+    "seen": 1794921509.19487,
+    "ast_hash": "1ae7c4c190640641bfffee8335376072",
+    "semantic_hash": ""
+  },
+  "macos/Sources/InputKit/InputInjector.swift": {
+    "mtime": 1794902660.982546,
+    "seen": 1794921509.1948779,
+    "ast_hash": "329f9ea913e283b58338fe161952c5f2",
+    "semantic_hash": ""
+  },
+  "macos/Sources/InputKit/KeyMap.swift": {
+    "mtime": 1794902661.0238428,
+    "seen": 1794921509.194879,
+    "ast_hash": "c42f2803f6683568fa8d3b98c7e387d6",
+    "semantic_hash": ""
+  },
+  "macos/Sources/StreamKit/AdbBridge.swift": {
+    "mtime": 1795524035.9430878,
+    "seen": 1795524128.8278909,
+    "ast_hash": "3e8829b1416deb242c4b00d5b1cf4e72",
+    "semantic_hash": ""
+  },
+  "macos/Sources/StreamKit/AnnexB.swift": {
+    "mtime": 1794899890.01545,
+    "seen": 1794921509.19488,
+    "ast_hash": "0b33b95be0803909680cf26a51ddcc56",
+    "semantic_hash": ""
+  },
+  "macos/Sources/StreamKit/DisplayCapturer.swift": {
+    "mtime": 1794900039.3403873,
+    "seen": 1794921509.194881,
+    "ast_hash": "44fdf266bdf16e6a4addf79f1ebd064a",
+    "semantic_hash": ""
+  },
+  "macos/Sources/StreamKit/FlowControl.swift": {
+    "mtime": 1794904050.3733122,
+    "seen": 1794921509.1948822,
+    "ast_hash": "1db8303e8935f8c4ed6f49e0bf0a2c29",
+    "semantic_hash": ""
+  },
+  "macos/Sources/StreamKit/StreamServer.swift": {
+    "mtime": 1795523181.3316708,
+    "seen": 1795523453.365869,
+    "ast_hash": "627365bedb37a4b3090bafe27208a00a",
+    "semantic_hash": ""
+  },
+  "macos/Sources/StreamKit/StreamSession.swift": {
+    "mtime": 1795524035.942722,
+    "seen": 1795524128.827895,
+    "ast_hash": "70b9b370b5e757a7eaced4dbae1eb958",
+    "semantic_hash": ""
+  },
+  "macos/Sources/StreamKit/VideoEncoder.swift": {
+    "mtime": 1794903501.7425609,
+    "seen": 1794921509.194884,
+    "ast_hash": "247b2c6b6d0531160e2cfea61f989988",
+    "semantic_hash": ""
+  },
+  "macos/Sources/StreamKit/Wire.swift": {
+    "mtime": 1795524035.9423387,
+    "seen": 1795524128.827897,
+    "ast_hash": "80dc4ed7dfdbb44ef2be5225cbbe8e6b",
+    "semantic_hash": ""
+  },
+  "macos/Tests/InputKitTests/InputKitTests.swift": {
+    "mtime": 1794902661.0447562,
+    "seen": 1794921509.194894,
+    "ast_hash": "ccd348662e49d372e3e5bbe4622e761f",
+    "semantic_hash": ""
+  },
+  "macos/Tests/StreamKitTests/StreamKitTests.swift": {
+    "mtime": 1795524042.8588943,
+    "seen": 1795524128.827905,
+    "ast_hash": "be37330f9a7ec951ee375a080c106bfa",
+    "semantic_hash": ""
+  },
+  "macos/scripts/create-local-signing-identity.sh": {
+    "mtime": 1794903595.8221931,
+    "seen": 1794921509.194897,
+    "ast_hash": "fae85eac5eafece34429a7ed605c8a77",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/droidscreen/receiver/discovery/MacDiscovery.kt": {
+    "mtime": 1795523350.475577,
+    "seen": 1795523453.365846,
+    "ast_hash": "ab42b6e660f28689865a2d2185e3d0ac",
+    "semantic_hash": ""
+  },
+  "macos/Sources/DroidScreenHost/LoginItem.swift": {
+    "mtime": 1795523194.6490145,
+    "seen": 1795523453.3658628,
+    "ast_hash": "107d31dcc2473db86e9797220da4cc6c",
+    "semantic_hash": ""
+  }
+}
